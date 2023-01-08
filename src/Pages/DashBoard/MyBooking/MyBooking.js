@@ -13,7 +13,7 @@ const MyBooking = () => {
             .then(res => res.json())
             .then(data => {
                 setTableData(data)
-               
+                console.log(data)
             })
     }, [])
 
