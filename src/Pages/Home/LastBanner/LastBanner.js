@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import lastbanner from '../../../image/lastbanner.jpg'
 const LastBanner = () => {
     return (
-        <div className="hero py-10">
+        <div className="hero py-10 my-20">
         <div className="hero-content flex-col lg:flex-row">
             <img src={lastbanner} className="rounded-lg w-96" alt='' />
             <div className='lg:pl-10 sm:pl-0'>

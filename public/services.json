@@ -1,0 +1,128 @@
+[
+    {
+        "brand": "Apple",
+        "phone_name": "Iphone 14 pro max",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-pro-max-1.jpg",
+        "orginal_price": 230000,
+        "resale_price": 200000
+    },
+    {
+        "brand": "Apple",
+        "phone_name": "Iphone 14",
+        "img": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-iPhone-14-Plus-hero-220907_Full-Bleed-Image.jpg.large.jpg",
+        "orginal_price": 150000,
+        "resale_price": 100000
+    },
+    {
+        "brand": "Apple",
+        "phone_name": "Iphone 13 pro max",
+        "img": "https://s.yimg.com/uu/api/res/1.2/NoQRhHGBqs3yr89l7yiDxg--~B/aD0xMDEzO3c9MTgwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2021-09/25c681c0-1cfe-11ec-b1ed-aff3c2fd2c38.cf.jpg",
+        "orginal_price": 190000,
+        "resale_price": 110000
+    },
+    {
+        "brand": "Apple",
+        "phone_name": "Iphone 13",
+        "img": "https://mobilemall.pk/public_html/images/product/product_1631793799iphone-13-mini-pink-select-2021.png",
+        "orginal_price": 170000,
+        "resale_price": 105000
+    },
+    {
+        "brand": "Apple",
+        "phone_name": "Iphone 12 pro max",
+        "img": "https://www.bestmobile.pk/addpost_images/iphone-12-pro-max-turkish-oben.webp",
+        "orginal_price": 150000,
+        "resale_price": 100000
+    },
+    {
+        "brand": "Apple",
+        "phone_name": "Iphone 12",
+        "img": "https://brotherselectronicsbd.com/image/cache/catalog/demo/product/Apple/iPhone%2012/1-800x800.jpg",
+        "orginal_price": 130000,
+        "resale_price": 90000
+    },
+    {
+        "brand": "Samsung",
+        "phone_name": "Galaxy A14",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a14-5g-2.jpg",
+        "orginal_price": 27000,
+        "resale_price": 26000
+    },
+    {
+        "brand": "Samsung",
+        "phone_name": "Galaxy A13",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a13-1.jpg",
+        "orginal_price": 21000,
+        "resale_price": 18000
+    },
+    {
+        "brand": "Samsung",
+        "phone_name": "Galaxy A12",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a12-sm-a125-2.jpg",
+        "orginal_price": 25000,
+        "resale_price": 22000
+    },
+    {
+        "brand": "Samsung",
+        "phone_name": "Galaxy A11",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a11-2.jpg",
+        "orginal_price": 24000,
+        "resale_price": 21000
+    },
+    {
+        "brand": "Samsung",
+        "phone_name": "Galaxy A10",
+        "img": "https://www.gizbot.com/images/2019-02/samsung-galaxy-a10_155135815060.jpg",
+        "orginal_price": 28000,
+        "resale_price": 26000
+    },
+    {
+        "brand": "Samsung",
+        "phone_name": "Galaxy A9",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a9-2018-2.jpg",
+        "orginal_price": 29000,
+        "resale_price": 27000
+    },
+    {
+        "brand": "One Plus",
+        "phone_name": "One Plus 11 pro",
+        "img": "https://cdn.pocket-lint.com/r/s/970x/assets/images/162728-phones-news-feature-oneplus-11-pro-image1-e2wzaby5mh.jpg",
+        "orginal_price": 26000,
+        "resale_price": 24000
+    },
+    {
+        "brand": "One Plus",
+        "phone_name": "One Plus 11",
+        "img": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-11-4.jpg",
+        "orginal_price": 30000,
+        "resale_price": 27000
+    },
+    {
+        "brand": "One Plus",
+        "phone_name": "One Plus 10",
+        "img": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-10-pro-3.jpg",
+        "orginal_price": 35000,
+        "resale_price": 31000
+    },
+    {
+        "brand": "One Plus",
+        "phone_name": "One Plus 9",
+        "img": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-9-3.jpg",
+        "orginal_price": 31000,
+        "resale_price": 29000
+    },
+    {
+        "brand": "One Plus",
+        "phone_name": "One Plus 8",
+        "img": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-8-pro-2.jpg",
+        "orginal_price": 34000,
+        "resale_price": 30000
+    },
+    {
+        "brand": "One Plus",
+        "phone_name": "One Plus 7",
+        "img": "https://3.img-dpreview.com/files/p/E~C311x0S800x800T1200x1200~articles/5036313880/oneplus7pro.jpeg",
+        "orginal_price": 24000,
+        "resale_price": 19000
+    }
+]
