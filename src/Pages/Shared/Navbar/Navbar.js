@@ -10,13 +10,18 @@ const Navbar = () => {
         <li className='font-bold'><Link to='/blog'>Blog</Link></li>
         {
             user?.uid ?
-                <Link onClick={logOut}><button className="btn bg-blue-500 border-0">Log out</button></Link>
+                <>
+                    <li className='font-bold'><Link to='/dashboard'>Dashboard</Link></li>
+                    <Link onClick={logOut}><button className="btn bg-blue-500 border-0">Log out</button></Link>
+                </>
+
                 :
                 <>
                     <li className='font-bold'><Link to='/login'>Login</Link></li>
                 </>
 
         }
+
 
         {
             user?.photoURL ?
