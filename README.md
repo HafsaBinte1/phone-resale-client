@@ -1,4 +1,4 @@
-# email: web3@gmail.com
+# email: web@gmail.com
 # pass:12345678
 # My site name is Phone world.. Basically my website for resale phone.. I am using for this site react, react-dom, tailwind, daisy ui, firebase, react hot toast, react icon, node express, mongodb etc.. This site is very helpfull for rebuyer..
 # You can buy resale phone from here 
